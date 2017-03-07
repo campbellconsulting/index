@@ -169,7 +169,7 @@ blockquote {
     right: 0;
     top: 0;
     bottom: 0;
-    background: rgba(40, 40, 53, 0.81) url("../images/dot.png");
+    background: rgba(40, 40, 53, 0.81) url("https://campbellconsulting.github.io/index/main/images/dot.png");
 }
 /* SLIDER TEXT
    ================================================== */
@@ -406,7 +406,7 @@ a.logo:hover {
    ================================================== */
 
 #services {
-    background: url("../images/bg.png");
+    background: url("https://campbellconsulting.github.io/index/main/images/bg.png");
 }
 .service-wrap {
     /* border: 2px solid #1c2334; ! Used for more retro look,try it */
@@ -468,7 +468,7 @@ a.logo:hover {
     right: 0;
     top: 0;
     bottom: 0;
-    background: url("../images/dot.png");
+    background: url("https://campbellconsulting.github.io/index/main/images/dot.png");
 }
 #clients h2,
 #clients h1 {
@@ -693,7 +693,7 @@ a.logo:hover {
     right: 0;
     top: 0;
     bottom: 0;
-    background: rgba(33, 33, 39, 0.96) url("../images/dot.png");
+    background: rgba(33, 33, 39, 0.96) url("https://campbellconsulting.github.io/index/main/images/dot.png");
 }
 #extra-info h1 {
     margin-top: 0;
